@@ -1,8 +1,7 @@
 ## Installation
 
 ````
-git clone https://github.com/kyang4881/TradingEconomicsWebDeveloper.git
-cd TradingEconomicsWebDeveloper
+git clone https://github.com/kyang4881/Interest-Rate-Tracker-GUI.git
 ````
 
 ## Start Application
