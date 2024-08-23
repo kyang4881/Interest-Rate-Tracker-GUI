@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/kyang4881/Interest-Rate-Tracker-GUI/blob/main/media/demo.png" width="1200" />
-</p>
-
 https://github.com/kyang4881/Interest-Rate-Tracker-GUI/assets/28466897/8d8b8656-5bad-4833-a1b7-27b4ecfe0ce5
 
 ## Installation
