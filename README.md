@@ -1,3 +1,5 @@
+https://github.com/kyang4881/Interest-Rate-Tracker-GUI/assets/28466897/128831ab-f566-4f61-bdf9-ba2ff0944171
+
 ## Installation
 
 ````
